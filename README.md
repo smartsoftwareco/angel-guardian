@@ -13,7 +13,7 @@
 Detrás del producto está **Juan Felipe Córdoba**, fundador de SmartSW:
 
 - **Ganador de la hackatón Smart City Cali 2026** con El Parche.
-- **Participante invitado al concurso de Smart City en Barcelona 2026**, tras ganar la hackatón de Cali.
+- **Invitado de honor a la feria Smart City Expo Barcelona 2026**, donde hizo networking con alcaldes de Latinoamérica y de Estados Unidos.
 - Su trabajo emprendedor y sus productos han sido **validados por el Hub de Emprendimiento de Icesi, YSA Pacífico, la Cámara de Comercio de Cali, la Gobernación del Valle del Cauca y la Alcaldía de Cali**.
 - Forma parte de **NIDO, Distrito de Innovación e Inteligencia Artificial del Valle**.
 
@@ -73,7 +73,7 @@ Escríbenos a **juan@smartsw.app** o deja tus datos en [angelguardian.app](https
 ### Recognition and founder track record
 
 - **Ángel Guardián ranked among the top 4 startups in Valle del Cauca, Colombia.**
-- Founder **Juan Felipe Córdoba won the Smart City Cali 2026 hackathon with El Parche** and took part in the Smart City competition in Barcelona 2026 as an invited contestant following that win.
+- Founder **Juan Felipe Córdoba won the Smart City Cali 2026 hackathon with El Parche** and attended **Smart City Expo Barcelona 2026 as a guest of honor**, networking with mayors from Latin America and the United States.
 - His entrepreneurial work and products have been validated by **Icesi Entrepreneurship Hub, YSA Pacífico, the Cali Chamber of Commerce, the Valle del Cauca Government and the Cali Mayor's Office**.
 - He is part of **NIDO, Valle's Innovation and Artificial Intelligence District**.
 
