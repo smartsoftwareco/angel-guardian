@@ -6,6 +6,19 @@
 
 ---
 
+## Innovación del Valle con proyección internacional
+
+**Ángel Guardián, en el top 4 de startups del Valle del Cauca.** Tecnología creada para conectar a las personas con una red de ayuda cuando más la necesitan.
+
+Detrás del producto está **Juan Felipe Córdoba**, fundador de SmartSW:
+
+- **Ganador de la hackatón Smart City Cali 2026** con El Parche.
+- **Participante invitado al concurso de Smart City en Barcelona 2026**, tras ganar la hackatón de Cali.
+- Su trabajo emprendedor y sus productos han sido **validados por el Hub de Emprendimiento de Icesi, YSA Pacífico, la Cámara de Comercio de Cali, la Gobernación del Valle del Cauca y la Alcaldía de Cali**.
+- Forma parte de **NIDO, Distrito de Innovación e Inteligencia Artificial del Valle**.
+
+Reconocimiento regional, experiencia internacional y una propuesta concreta para instituciones que quieren fortalecer su respuesta a emergencias. Buscamos aliados para llevar Ángel Guardián a más familias, colegios y ciudades.
+
 ## La idea
 
 Cuando ocurre una emergencia, cada segundo cuenta, y a veces no hay señal. Ángel Guardián convierte los celulares de la comunidad en una red de respuesta: un solo botón SOS alerta en tiempo real a tres escudos de protección:
@@ -56,6 +69,16 @@ Escríbenos a **juan@smartsw.app** o deja tus datos en [angelguardian.app](https
 ## English
 
 Ángel Guardián is a personal and community emergency-response network built in Cali, Colombia. One SOS button alerts three shields at once (family, nearby community responders and authorities) with live location and evidence. Its MESH technology lets an SOS hop device-to-device between nearby phones running the app until one finds connectivity, so the alert can get out even without signal. Available today as an installable web app and free during beta. Institutional pilots: juan@smartsw.app.
+
+### Recognition and founder track record
+
+- **Ángel Guardián ranked among the top 4 startups in Valle del Cauca, Colombia.**
+- Founder **Juan Felipe Córdoba won the Smart City Cali 2026 hackathon with El Parche** and took part in the Smart City competition in Barcelona 2026 as an invited contestant following that win.
+- His entrepreneurial work and products have been validated by **Icesi Entrepreneurship Hub, YSA Pacífico, the Cali Chamber of Commerce, the Valle del Cauca Government and the Cali Mayor's Office**.
+- He is part of **NIDO, Valle's Innovation and Artificial Intelligence District**.
+
+We welcome conversations with institutions and partners looking to bring coordinated emergency response to more families, schools and cities. Contact **juan@smartsw.app**.
+
 
 ---
 
